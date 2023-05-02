@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.AssemblyInfo.cs
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.exe
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.deps.json
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.runtimeconfig.json
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\bin\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.dll
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\refint\ControleDeBar.ConsoleApp.dll
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.pdb
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ControleDeBar.ConsoleApp.genruntimeconfig.cache
+C:\Users\T-GAMER\Source\Repos\ControleDeBar\ControleDeBar.ConsoleApp\obj\Debug\net6.0\ref\ControleDeBar.ConsoleApp.dll
